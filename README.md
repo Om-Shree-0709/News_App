@@ -24,7 +24,7 @@ This is a simple news application built using React and Bootstrap. It fetches ne
 
 3. **Run the app**:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## File Structure
